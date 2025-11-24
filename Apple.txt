@@ -1,0 +1,8 @@
+metrics.apple.com
+metrics.icloud.com
+gsp-ssl.ls.apple.com
+analytics.apple.com
+xp.apple.com
+mesu.apple.com
+crashlyticsreports-pa.googleapis.com
+gspe11-ssl.ls.apple.com
