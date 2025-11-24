@@ -1,0 +1,14 @@
+device-metrics-us.amazon.com
+device-metrics.amazon.com
+app-measurement.com
+firebase-settings.crashlytics.com
+fireos-tv.amazon.com
+aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+googleads.g.doubleclick.net
+www.google-analytics.com
+ssl.google-analytics.com
+app-measurement.google.com
+metrics.icloud.com
+firebaseinstallations.googleapis.com
+config-v2.amplify.aws
