@@ -1,0 +1,6 @@
+analytics.synology.com
+update.synology.com.edgekey.net
+logserver.synology.com
+crashreport.synology.com
+ocsp.synology.com
+synology-analytics.s3.amazonaws.com
